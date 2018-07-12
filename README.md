@@ -1,5 +1,7 @@
 # 90's Pop Trivia Game
 
+[Click her to play](https://copperco.github.io/AdvancedTrivia/index.html)
+
 ![Game Preview](/assets/images/90sPopPreview.png)
 
 This is a fun 90's themed Trivia game using JavaScript for the logic and jQuery to manipulate HTML.
