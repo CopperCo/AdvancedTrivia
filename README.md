@@ -1,6 +1,6 @@
 # 90's Pop Trivia Game
 
-[Click her to play](https://copperco.github.io/AdvancedTrivia/index.html)
+[Click here to play](https://copperco.github.io/AdvancedTrivia/index.html)
 
 ![Game Preview](/assets/images/90sPopPreview.png)
 
